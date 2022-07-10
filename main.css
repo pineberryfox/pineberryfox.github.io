@@ -46,6 +46,7 @@ hr {
 .logo {
 	width:8rem;
 	max-width:100%;
+	height:auto;
 }
 h1 {
 	font-weight:bold;
@@ -98,6 +99,7 @@ article.game {
 	display:inline-block;
 	width:8rem;
 	max-width:100%;
+	height:auto;
 	margin-bottom:1rem;
 }
 .screenshot-holder {
@@ -108,12 +110,14 @@ article.game {
 .game .screenshot {
 	display:inline-block;
 	width:30%;
+	height:auto;
 	margin:0;
 }
 .game .screenshot-single {
 	display:block;
 	margin:1rem auto 0;
 	max-width:67%;
+	height:auto;
 }
 .game .description {
 	text-align:left;
