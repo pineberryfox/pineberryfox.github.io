@@ -152,3 +152,17 @@ a:hover, a:active {
 	padding:0.125em;
 	margin:-0.25em;
 }
+#rss {
+	position:absolute;
+	top:0.5rem;
+	right:1rem;
+}
+#rss a {
+	color:inherit;
+}
+#rss a:hover, .rss a:active {
+	color:inherit;
+	border:0;
+	padding:0;
+	margin:0;
+}
