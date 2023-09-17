@@ -6,10 +6,18 @@
 <description>A one-fox retro game studio</description>
 <copyright>Copyright 2022-2023, Pineberry Fox</copyright>
 <language>en</language>
-<pubDate>Sun, 23 Jul 2023 02:02:00 +0200</pubDate>
+<pubDate>Sun, 17 Sep 2023 20:36:00 +0200</pubDate>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <ttl>10080</ttl>
 <atom:link href="https://pineberryfox.com/rss.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>225 Released</title>
+<link>https://pineberryfox.com/index.html#225</link>
+<description>I heard you like 15-puzzles, so I put some 15-puzzles in your 15-puzzle.</description>
+<pubDate>Fri, 13 July 2023 14:10:06 +0200</pubDate>
+<category>Games</category>
+<guid isPermaLink="false">tag:pineberryfox.com,2023:rss.4</guid>
+</item>
 <item>
 <title>Pentablocat Released</title>
 <link>https://pineberryfox.com/index.html#pentablocat</link>

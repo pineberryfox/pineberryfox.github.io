@@ -9,12 +9,12 @@ html {
 	font-family:Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
 	font-size:100%;
 	background:#222;
-	color:#ccc;
+	color:#ddd;
 	line-height:1.4;
 	width:100%;
 }
 body {
-	background:#ccc;
+	background:#ddd;
 	color:#222;
 	width:42rem;
 	max-width:calc(100% - 2rem);
@@ -25,7 +25,7 @@ body {
 header {
 	background:#009051;
 	color:#000;
-	border-bottom:1px dashed #ccc;
+	border-bottom:1px dashed #ddd;
 	text-align:center;
 	margin:-1rem -1rem 0;
 	padding:1rem;
@@ -143,12 +143,12 @@ sup {
 	font-weight:bold;
 }
 a{
-	color:#ff2f92;
+	color:#B05;
 	text-decoration:none;
 }
 a:hover, a:active {
-	color:#ff2f92;
-	border:0.125em solid #ff2f92;
+	color:#804;
+	border:0.125em solid #009051;
 	padding:0.125em;
 	margin:-0.25em;
 }
