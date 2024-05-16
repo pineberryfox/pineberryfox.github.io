@@ -208,7 +208,7 @@ article.game {
 }
 .game .description ul {
 	list-style-type:none;
-	border-left:0.25rem solid var(--gamename);
+	border-left:0.25rem solid var(--gamehead);
 	margin-left:-0.75rem;
 	padding-left:0.5rem;
 }
