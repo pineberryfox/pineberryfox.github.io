@@ -245,6 +245,7 @@ label:has(+input:focus) {
 }
 #rss a {
 	color:inherit;
+	border:0;
 }
 #rss a:hover, .rss a:active {
 	color:inherit;
