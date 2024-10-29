@@ -247,7 +247,7 @@ label:has(+input:focus) {
 	color:inherit;
 	border:0;
 }
-#rss a:hover, .rss a:active {
+#rss a:hover, #rss a:active {
 	color:inherit;
 	border:0;
 	padding:0;
