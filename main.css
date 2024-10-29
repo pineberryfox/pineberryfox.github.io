@@ -224,10 +224,17 @@ sup {
 a{
 	color:var(--url);
 	text-decoration:none;
+	border-bottom:1px dotted var(--body);
 }
-a:hover, a:active {
+a:hover, a:active, a:focus {
 	color:var(--urlhover);
 	border:0.125em solid var(--headerbg);
+	padding:0.125em;
+	margin:-0.25em;
+}
+label:has(+input:focus) {
+	color:var(--actlink);
+	border:0.125em solid var(--body);
 	padding:0.125em;
 	margin:-0.25em;
 }
